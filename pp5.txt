@@ -1,0 +1,23 @@
+git revote & commit id
+
+git HEAD used to show latest data from top (today)
+git TAIL used to show latest data from down
+
+git reset is used to reset immideate actions from top 5 only
+
+git branch is used to creat a branch & to show number of branches
+
+git cherypick
+
+git merge 
+
+-------------------------------------------------------------------------------------------------------------------
+MAVIN
+
+mvn clean:- used to clean mavin & the file gets deleated (target folder)
+mvn package :- 
+
+java -jar (filename) :- 
+
+
+
